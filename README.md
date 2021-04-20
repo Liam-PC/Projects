@@ -1,2 +1,2 @@
 # Projects
-My Main Repository for just random stuff
+My Main Repository for some of the weird plugins I make
